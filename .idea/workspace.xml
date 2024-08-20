@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6db7f7f2-5945-4f75-84af-dbd1ea62fd1f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/dsa/LIS.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/LIS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa/dijkstra.py" beforeDir="false" afterPath="$PROJECT_DIR$/dsa/dijkstra.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dsa_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solana-counter/Cargo.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solana-counter/src/lib.rs" beforeDir="false" />
+    <list default="true" id="6369b748-f518-4f21-9a46-137f87fd79f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailycracker-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dailycracker-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,71 +13,54 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;rohithIlluri&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rohithIlluri"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:rohithIlluri/dc.git&quot;,
-    &quot;accountId&quot;: &quot;d6616e32-db1c-4285-ba7b-094a75b68d04&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:rohithIlluri/dc.git",
+    "accountId": "d6616e32-db1c-4285-ba7b-094a75b68d04"
   }
-}</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2kePbBeG9aGM69EiXnVyWKmzONn" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2kvsZBy3uzQbKOQITT0Q1bXq9t0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;solana-counter&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/rohithilluri/Desktop/dc&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Docker&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "spring",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/rohithilluri/Desktop/dc",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6db7f7f2-5945-4f75-84af-dbd1ea62fd1f" name="Changes" comment="" />
-      <created>1723641138112</created>
+      <changelist id="6369b748-f518-4f21-9a46-137f87fd79f5" name="Changes" comment="" />
+      <created>1724175438027</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1723641138112</updated>
-      <workItem from="1723641139132" duration="370000" />
-      <workItem from="1723839396920" duration="1069000" />
-      <workItem from="1724075947438" duration="291000" />
-      <workItem from="1724076583923" duration="136000" />
-      <workItem from="1724076882726" duration="77000" />
-      <workItem from="1724077163705" duration="80000" />
-      <workItem from="1724077249360" duration="454000" />
-      <workItem from="1724077709506" duration="152000" />
+      <updated>1724175438027</updated>
+      <workItem from="1724175439066" duration="81000" />
     </task>
     <servers />
   </component>
