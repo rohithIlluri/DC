@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6369b748-f518-4f21-9a46-137f87fd79f5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dailycracker-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/dailycracker-service/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="6369b748-f518-4f21-9a46-137f87fd79f5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,22 +10,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rohithIlluri"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rohithIlluri&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:rohithIlluri/dc.git",
-    "accountId": "d6616e32-db1c-4285-ba7b-094a75b68d04"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:rohithIlluri/dc.git&quot;,
+    &quot;accountId&quot;: &quot;d6616e32-db1c-4285-ba7b-094a75b68d04&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2kvsZBy3uzQbKOQITT0Q1bXq9t0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,9 +34,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "spring",
+    "git-widget-placeholder": "feature/vm__thread",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/rohithilluri/Desktop/dc",
+    "last_opened_file_path": "/home/rohithilluri/Desktop/dc/team-app",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -61,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1724175438027</updated>
       <workItem from="1724175439066" duration="81000" />
+      <workItem from="1724177075697" duration="180000" />
     </task>
     <servers />
   </component>
