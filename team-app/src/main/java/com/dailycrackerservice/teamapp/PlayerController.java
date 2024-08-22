@@ -16,9 +16,9 @@ public class PlayerController {
 
     @Autowired
     private PlayerService playerService;
-
     @Autowired
     private PlayerRepository playerRepository;    @GetMapping
+
     public ResponseEntity<List<Player>> getAllPlayers() {
         return new ResponseEntity<>(playerService.getAllPlayers(), HttpStatus.OK);
     }
