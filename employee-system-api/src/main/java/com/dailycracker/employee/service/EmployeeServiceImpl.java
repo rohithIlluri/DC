@@ -6,6 +6,8 @@ import com.dailycracker.employee.repository.EmployeeRepository;
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 
+import java.util.List;
+
 @Service
 public class EmployeeServiceImpl implements EmployeeService {
 
@@ -23,5 +25,13 @@ public class EmployeeServiceImpl implements EmployeeService {
         employeeRepository.save(employeeEntity);
         return employee;
 
+    }
+
+    @Override
+    public List<Employee> getAllEmployees() {
+        List<EmployeeEntity> employeeEntities = employeeRepository.findAll();
+
+        List<Employee> employees = employeeEntities.stream().map()
+        return List.of();
     }
 }
